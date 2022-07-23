@@ -1,0 +1,20 @@
+{
+  "name": "create-fractal-component",
+  "version": "1.0.0",
+  "description": "A little helper that creates a JS, SCSS and config file",
+  "main": "index.js",
+  "bin": {
+    "create-fractal-component": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jérôme Haas",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^4.1.2",
+    "handlebars": "^4.7.7",
+    "pascal-case": "^3.1.2"
+  }
+}
